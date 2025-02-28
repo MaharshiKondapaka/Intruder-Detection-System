@@ -1,6 +1,6 @@
 # Intruder-Detection-System
 
-# Python Security System
+
 
 A simple yet powerful security system built with Python, OpenCV, and React. It uses a pre-trained MobileNet SSD model for person detection, records video on motion, uploads it to Google Cloud Storage, and sends text notifications via Twilio. Features include arming/disarming the system, a web-based admin panel, and activity logs.
 
